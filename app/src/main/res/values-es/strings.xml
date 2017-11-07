@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string name="app_name">HolaWorld2</string>
+    <string name="textViewString">Hola mi amigo!</string>
+</resources>
