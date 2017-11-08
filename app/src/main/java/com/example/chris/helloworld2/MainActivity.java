@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity
         {
             public void onClick(View view)
             {
-                tvText.setText("clicked");
+                tvText.setText("you clicked me yay");
             }
         });
     }
